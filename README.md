@@ -1,4 +1,8 @@
-### Hi there 👋
+### gaiterjones 👋
+
+I have worked in IT for much longer than I care to remember. The last 10 years I have been involved with eCommerce and Web Design amongst many other things!
+
+
 
 <!--
 **gaiterjones/gaiterjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
